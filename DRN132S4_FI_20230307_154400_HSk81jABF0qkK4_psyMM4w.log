@@ -1,0 +1,94 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V1926
+! INFO-      
+! INFO-     Start of Translation: 7-MAR-2023  3:46:43 PM
+! INFO-      
+! STATUS-   Converting Part: C:\Users\acer\OneDrive\Pulpit\DRN132S4_FI_20230307_154400_HSk81jABF0qkK4_psyMM4w.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP214
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        cctmp_45D37B3F-2D8C-4933-AFE9-F857B0BC1AD6_2023_03_07_15_44_05_0248..stp
+! SUMMARY-  Date             2023-03-07T14:44:05
+! SUMMARY-  Author           SEW-EURODRIVE GmbH & Co KG
+! SUMMARY-  Organization     CADClick - www.CADClick.com
+! SUMMARY-  Pre_Version      Spatial InterOp 3D postprocessed
+! SUMMARY-  Orig_System       
+! SUMMARY-  Authorization    unknown authorization
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    507
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    947
+! SUMMARY-  b_spline_curve_with_knots ..................................:    100
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     48
+! SUMMARY-  brep_with_voids ............................................:      1
+! SUMMARY-  cartesian_point ............................................:   6660
+! SUMMARY-  circle .....................................................:    487
+! SUMMARY-  closed_shell ...............................................:      3
+! SUMMARY-  conical_surface ............................................:     22
+! SUMMARY-  conversion_based_unit_and_length_unit ......................:      1
+! SUMMARY-  cylindrical_surface ........................................:    193
+! SUMMARY-  dimensional_exponents ......................................:      2
+! SUMMARY-  direction ..................................................:   2696
+! SUMMARY-  edge_curve .................................................:   1389
+! SUMMARY-  edge_loop ..................................................:    548
+! SUMMARY-  face_bound .................................................:     41
+! SUMMARY-  face_outer_bound ...........................................:    507
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_measure_with_unit ...................................:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    802
+! SUMMARY-  oriented_closed_shell ......................................:      2
+! SUMMARY-  oriented_edge ..............................................:   2778
+! SUMMARY-  plane ......................................................:    232
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_category ...........................................:      1
+! SUMMARY-  product_category_relationship ..............................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:      4
+! SUMMARY-  toroidal_surface ...........................................:      8
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    802
+! SUMMARY-  vertex_point ...............................................:    903
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          19699
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 7-MAR-2023 3:46:44 PM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 7-MAR-2023  3:46:48 PM
+! INFO-     Filing Part ..: C:\Users\acer\OneDrive\Pulpit\DRN132S4_FI_20230307_154400_HSk81jABF0qkK4_psyMM4w.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         1
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         1
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 7-MAR-2023  3:46:50 PM
+! INFO-      
